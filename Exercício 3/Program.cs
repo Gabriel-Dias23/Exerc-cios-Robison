@@ -2,7 +2,7 @@
 
 int escolha;
 
-Console.WriteLine("Digite um numero para o número para o dia da semana: ");
+Console.WriteLine("Digite um numero para o número para o dia da semana, digite o número 0 para sair: ");
     escolha = int.Parse(Console.ReadLine());
 do
 {
